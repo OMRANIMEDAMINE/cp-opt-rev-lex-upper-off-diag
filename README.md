@@ -3,7 +3,7 @@
 > **Source code for the paper:**  
 > *Reverse Lexicographic Ordering and Upper Off-Diagonal Connectivity Constraints: A Synergistic Approach for Connected Non-Isomorphic Graph Generation*  
 > Mohamed Amine Omrani · Wady Naanaa  
->  Journal (under review) 
+>  Journal (under review)
 
 ---
 
